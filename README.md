@@ -1,4 +1,4 @@
-# BreedVision 🐄
+# GauAI 🐄
 
 AI-powered cattle and buffalo breed identification system for the **Bharat Pashudhan App (BPA)**.  
 This project uses computer vision and machine learning to help Field Level Workers (FLWs) correctly identify animal breeds during registration, reducing manual errors and improving data reliability.
