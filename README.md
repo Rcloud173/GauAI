@@ -23,3 +23,7 @@ This project uses computer vision and machine learning to help Field Level Worke
 
 ---
 
+📊 Dataset: [Indian Bovine Breeds]  (https://www.kaggle.com/datasets/lukex9442/indian-bovine-breeds) – A collection of images of indigenous Indian cattle and buffalo breeds.  
+📁 Source: Kaggle | License: CC0 Public Domain
+
+---
